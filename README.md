@@ -1,8 +1,8 @@
 ## Salve, Pedro aqui
 
 
-- 🔭 Atualmente trabalho com suporte ao cliente (please, help me)
-- 🌱 Estou estudando no momento JavaScript.
+- 🔭 Atualmente sem trabalho, porém muito estudo (please, find me)
+- 🌱 Estou estudando no momento React/Node Js..
 - 😄 Pronomes: ele/dele
 - ⚡ Fatos e curiosidades: Não falo muito, porém penso muito
 
