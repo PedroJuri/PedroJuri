@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/PedroJuri">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=PedroJuri&theme=neon&show_icons=true&hide_border=true&count_private=true"/> <br>
-  <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJuri&theme=neon&hide_border=true"/> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJuri&theme=neon&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="185rem" src="https://github-readme-stats.vercel.app/api?username=PedroJuri&theme=neon&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="185rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJuri&theme=neon&hide_border=true"/> 
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJuri&theme=neon&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
