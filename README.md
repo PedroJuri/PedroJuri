@@ -1,8 +1,10 @@
-## Salve, Pedro aqui
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a2345&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Pedro+aqui.;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Aqui+é+onde+guardo+meus+projetos;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
+##
 - 🔭 Atualmente sem trabalho, porém muito estudo (please, find me)
-- 🌱 Estou estudando no momento React/Node Js..
+- 🌱 Estou estudando no momento React/Node Js.
 - 😄 Pronomes: ele/dele
 - ⚡ Fatos e curiosidades: Não falo muito, porém penso muito
 
@@ -13,19 +15,17 @@
   <img height="325rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJuri&theme=transparent&hide_border=false"/> 
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="PedroJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PedroTS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="PedroNonCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PedroStyle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PedroPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PedroBS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+<div align="center" style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
-  ##
-  
-<div>
-  <a href="https://instagram.com/21.ph__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-  
-  ![Snake animation](https://github.com/PedroJuri/PedroJuri/blob/output/github-contribution-grid-snake.svg)
+##
+
+![Snake animation](https://github.com/PedroJuri/PedroJuri/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a2345&height=120&section=footer"/>
