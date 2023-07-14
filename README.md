@@ -10,9 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/PedroJuri">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=PedroJuri&theme=transparent&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJuri&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
-  <img height="325rem" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJuri&theme=transparent&hide_border=false"/> 
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedrojuri&theme=transparent&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojuri&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="325rem" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrojuri&theme=transparent&hide_border=false"/> 
 </div>
   
 <div align="center" style="display: inline_block"><br>
